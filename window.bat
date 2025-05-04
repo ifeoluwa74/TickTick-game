@@ -1,0 +1,1 @@
+g++ -std=c++11 -I"C:\Users\iifeoluwa\Downloads\TickTick\TickTick\SFML-2.4.1\include" -L"C:\Users\iifeoluwa\Downloads\TickTick\TickTick\SFML-2.4.1\lib" main.cpp -o TickTick -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio -lopengl32 -lgdi32 -lglu32
